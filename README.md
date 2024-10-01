@@ -13,7 +13,6 @@
 
 I’m **Farah Taounza**, a creative Web Developer with a passion for building web applications using **Java**, **React**, and **Angular**. Currently pursuing my **Advanced Degree in Web Application Development**, I’m dedicated to continuously learning and improving my skills.
 
-- 🔥 **Focused on:** Cloud Security, AI-driven Cybersecurity.
 - 💡 **Philosophy:** Blend creativity with technology to create scalable solutions.
 - 🎯 **Goal:** Improve user experiences with clean, maintainable code.
 
