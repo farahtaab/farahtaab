@@ -49,7 +49,7 @@ I’m **Farah Taounza**, a creative Web Developer with a passion for building we
 - **JAVA and REACT Bootcamp**  
   Fundació Esplai | 376h | Reus (2024)
 
-- **High School Diploma in Social Sciences**  
+- **Baccalaureate in Economics**  
   Institut Josep Tapiró | Reus (2021 - 2023)
 
 ---
