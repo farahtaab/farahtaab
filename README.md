@@ -45,7 +45,7 @@ I’m **Farah Taounza**, a creative Web Developer with a passion for building we
 - **Advanced Technical Degree in Web Application Development**  
   Institut Baix Camp | Reus (2023 - 2025)
 
-- **JAVA and REACT Bootcamp**  
+- **Java and React Bootcamp**  
   Fundació Esplai | 376h | Reus (2024)
 
 - **Baccalaureate in Economics**  
